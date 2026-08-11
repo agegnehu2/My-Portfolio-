@@ -25,8 +25,6 @@ I build powerful and complete web applications. From classic task managers to mo
 * **⛓️ Web3 & Blockchain:** Decentralized identity, smart contracts, and Web3 architecture
 * **🤖 AI Tools:** Deploying powerful AI coding agents (Devin, Claude) and automation tools
 * **☁️ DevOps & Tools:** GitHub | Vercel | Supabase | Appwrite | Firebase | Visual Studio Code
-### 🛠️ Tech Stack & Skills
-
 * **🌐 Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS
 * **⚙️ Backend & Database:** Node.js, Supabase, Appwrite, Firebase, REST APIs
 * **⛓️ Web3 & Blockchain:** Smart Contracts, Decentralized Apps (DApps), Web3 Architecture
