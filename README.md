@@ -1,74 +1,60 @@
-# Agegnehu Shibiru | Software Engineer & Digital Creator
+<h1 align="center">👋 Hello, I'm Agegnehu Shibiru</h1>
+<h3 align="center">🚀 Software Developer & Full-Stack Creator</h3>
 
-👋 **Welcome to my digital space!**
-
-I am a passionate developer and digital creator crafting decentralized futures. Merging Web3, AI, and intuitive design to build meaningful, human-centric solutions. Dedicated to continuous growth and exploring the limitless potential of technology to empower communities worldwide.
-
----
-
-## 🚀 Vision & Mission
-*   **Vision:** To create sustainable digital solutions that simplify and improve human lives through technology and creative innovation.
-*   **Mission:** To make complex processes simple, accessible, and efficient using Web3, Blockchain, and AI-driven solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Web3%20%26%20AI-blue?style=for-the-badge" alt="Focus">
+</p>
 
 ---
 
-## 🛠 Tech Stack & Skills
-*   **Full-Stack Development:** JavaScript, Modern Web Frameworks (Next.js/React).
-*   **Web3 & Blockchain:** Digital Identity, Smart Contracts, and Web3 Architecture.
-*   **AI Integration:** Utilizing AI Agents and automation tools to streamline workflows.
-*   **DevOps & Tools:** GitHub, Vercel, Supabase, Appwrite, Firebase.
+### 💡 Passionate About Building the Future!
+I build powerful and complete web applications. From classic task managers to modern digital banking applications, Web3 AI, and user-friendly digital platforms, I am currently engaged in creating innovative solutions. My goal is to leverage technology and innovation to create modern tools that benefit society.
 
 ---
 
-## 🏗 Key Projects
-1.  **AgeNova:** A custom software compiler optimized for AI and Web applications.
-2.  **Agegnehu Digital Nation:** A Web3 platform featuring unique digital identity components and cryptographic architectures.
-3.  **Habesha TikTok:** A specialized regional video-sharing platform designed for optimized local interaction and community engagement.
-4.  **Agegnehu Global Bank:** A Web3 financial platform integrating payment systems and automated banking services.
+### 🎯 Vision & Mission
+* **Vision:** To revolutionize our community's daily life through technology and digital ideas, creating a comprehensive and accessible digital platform.
+* **Mission:** To deliver efficiency, speed, and humanity through Web3, Blockchain, and advanced digital technologies.
 
 ---
 
-## 📈 Education & Professional Journey
-I am a self-taught software engineer committed to continuous learning:
-*   **Professional Development:** Student at Code Institute (Ireland), member of Talent Beyond Boundaries, and participant in the 42 Paris program.
-*   **Continuous Learning:** Actively pursuing certifications in Applied Data Science (WorldQuant University) and various advanced courses on freeCodeCamp and Coursera.
-*Let's build the future with technology together!*
-# Agegnehu Shibiru | Software Engineer & Digital Creator 🚀
+### 🛠️ Tech Stack & Skills
 
-👋 **Welcome to my digital space!**
-
-I am a passionate developer and digital creator crafting decentralized futures. Merging Web3, AI, and intuitive design to build meaningful, human-centric solutions. Dedicated to continuous growth and exploring the limitless potential of technology to empower communities worldwide.
+* **🌐 Full-Stack Development:** Modern web technologies and clean code (Next.js / React)
+* **⛓️ Web3 & Blockchain:** Decentralized identity, smart contracts, and Web3 architecture
+* **🤖 AI Tools:** Deploying powerful AI coding agents (Devin, Claude) and automation tools
+* **☁️ DevOps & Tools:** GitHub | Vercel | Supabase | Appwrite | Firebase | Visual Studio Code
 
 ---
 
-## 🎯 Vision & Mission
-*   **Vision:** To create sustainable digital solutions that simplify and improve human lives through technology and creative innovation.
-*   **Mission:** To make complex processes simple, accessible, and efficient using Web3, Blockchain, and AI-driven solutions. 
-    *   *Focus:* Decentralization, Automation, and User-Experience.
+### 🏛️ Main Projects & Ventures
+
+1. **Ejigfi:** A visionary platform designed for AI research application creation and workflow efficiency.
+2. **Agegnehu Digital Bank (ADN):** Building a secure, fast, and reliable digital payment and banking application.
+3. **Habesha Tutorial:** Educational and skill-development platform tailored for students and the community.
+4. **Agegnehu Global Graphics:** Web platform providing brand layout design and automation solutions.
 
 ---
 
-## 🛠 Tech Stack & Skills
-*   **🌐 Full-Stack Development:** JavaScript, Modern Web Frameworks (Next.js/React).
-*   **⛓ Web3 & Blockchain:** Digital Identity, Smart Contracts, and Web3 Architecture.
-*   **🤖 AI Integration:** Utilizing AI Agents (Devin, Claude) and automation tools to streamline complex workflows.
-*   **☁️ DevOps & Tools:** GitHub, Vercel, Supabase, Appwrite, Firebase, and Visual Studio Code.
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ageg&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🏗 Key Projects & Ventures
-1.  **AgeNova:** A custom software compiler designed to optimize AI-driven web applications and enhance coding efficiency.
-2.  **Agegnehu Digital Nation (ADN):** A comprehensive Web3 platform featuring unique digital identity components and cryptographic architectures for a decentralized future.
-3.  **Habesha TikTok:** A specialized, localized regional video-sharing platform designed for optimized local user interaction, high performance, and community engagement.
-4.  **Agegnehu Global Bank:** A forward-thinking Web3 financial platform integrating seamless payment systems, cross-border transactions, and automated banking services.
+### 🔗 Get In Touch
+
+Always ready for new projects, collaborations, or discussing fresh technology ideas!
+
+* **📧 Email:** agegnehushibiru@gmail.com
+* **📱 Phone:** +251910195166
+* **📍 Location:** Hantate, Ethiopia
 
 ---
-
-#
-## 🔗 Let's Connect
-I am always open to discussing new projects, collaborations, or innovative tech ideas.
-*   **📧 Email:** agegnehushibiru@gmail.com
-*   **📱 Phone:** +251910195166
-*   **📍 Location:** Hantate, Sidama, Ethiopia.
-
-*Let's build the future with technology together!*
+<p align="center">Always building the future through technology!</p>
