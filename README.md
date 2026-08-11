@@ -52,7 +52,7 @@ I build powerful and complete web applications. From classic task managers to mo
 
 Always ready for new projects, collaborations, or discussing fresh technology ideas!
 
-* **📧 Email:** agegnehushibiru@gmail.com
+* **📧 Email:** agegnehushibiru5@gmail.com
 * **📱 Phone:** +251910195166
 * **📍 Location:** Hantate, Ethiopia
 
