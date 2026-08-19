@@ -1,3 +1,4 @@
+![Agegnehu Shibiru](./agegnehu%20shibiru.jpg)
 <h1 align="center">👋 Hello, I'm Agegnehu Shibiru</h1>
 <h3 align="center">🚀 Software Developer & Full-Stack Creator</h3>
 
